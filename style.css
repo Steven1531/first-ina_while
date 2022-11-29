@@ -1,0 +1,41 @@
+body {
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0PDw0PDw0NDw0NDQ0PDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDw8NDysZFRkrKzctKys3KysrLSsrLis3KysrLSstKy0tLTcrLSsrLTctLSsrLSsrKystKysrLTctN//AABEIAOEA4QMBIgACEQEDEQH/xAAbAAEBAQEBAQEBAAAAAAAAAAABAAIDBQYEB//EACUQAQEBAQABAwIHAQAAAAAAAAABEQIhMUHwUXESYYGRobHxA//EABgBAQEBAQEAAAAAAAAAAAAAAAEAAgQD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwD+uILXs0RLv7i1RMtClIMBqhM1nBjQVAwrPv8AqYEDhxYgMWNYsAZxY1ixJkc3fJMBBRSCiqgTULOs6i66Z04/Pczop2/EnH8SRLN6NEj0exkaghiZpSSZFgxoBmsrm+WsWIK+fN9PbL5okMhAGFJJIpAMW79mupqk9wRhwpBCkUEBVJCjnrPJrHSLfV977+kc9VrFpONaXPUWsfpSTT0paZaTNSSTKSQFSSTKSKCSIQSSSBQASSKFVo0IVIWoi1im1m0lnqsWtVztMai1MotY/eoiWlGhCmakkGUkUKEkmSkgEkEiBq0IpnVqTQtZ1akkNCJZtWioi1jqm1ipqQdVztatc+q01ItLCLWPTIQVaIz7xRMFKIJJJMohIIc3fr+o6pgBtZtVrOhHVrOjUmtWs6NKb0axfH1Wo41aNZ1ajh0WjWbUcVrNqtZtajUjNrnrd+fI52mNyJMknHqmBrGWGt319J7S+tZUIZSSCSSQWs/i+YeoPzvqgpBarQAtZtVrNqC1azqtRa0c9YzoqOOt63zf0kv8sazoJa0aLRpJ0WjRaTIrWN+WLoW+/uWsFrFprNLcgQJL2DKDHm8iolACCgAiKgma0zUGazaazUhWbTWLUsWoM2pNaNGjSWtGs6tOHCNGrS1IdFo1m0tG1m1Ws2kyKs1Wi0tJDUS9qNMxp4vFJRBUxJJlAhAM1qsVIVitVioM9M1q1ilC0BEoKjTjUhGi0aWsOjRq0nDWbVotONYrWbVaLTjStZqCOJII496QpPF4Ic3f3GtcgFJIKg0IDpitVioM1jprrnGLSmaz0axSgNVrNLUhtGgWloszr/D8+rNrUakNotC041i1aBaThtZ0GTfE9f6TQB6lniz+gkkEi99m1qwSfVzucyNQGJJJFmigioM1jcarPSC6vvfzyONarFMhZ6YrVY6pTIVDTatZnSot3z7nDEFaNabkI0aNTUh0DUThPPVl2MjUcdu+p63LbPE9pHG0WgYpDqCRfRJJzudEEgwUioUUUs1Ms1jpqsUpjpjqtdMdUpmudbrFLUZtCZtakaitFqtZtabitAtBakIGrTjWHVrI0lrQEsOFBMpJJJ9GknM5qUkQQggqxWumKWWaxWrXPqlM1zrfVc7SWeqx01XPqtRpWsWms2tNRWs1UWluC0aqGm1qQJIFq1NQpnTqRQ1Ss1FJBPoyInM5Shec+apSCkLUGeqxa1axSyz1XO1rqufVaQtc9+brV+YxaYYz1WKbWa1GoLWVRWm4rWKapLsk9b/BbjOhr/pzefVilqHWdCLUVQRJ1BT/AHwEct9FGrczPnszGUUgE+llUoLmcze/XL9IyIrSyazUKRWeqxWqx1Syx1XP8X3a7c6UKx1TWLWo1BWK1WK00KzaazS3FVOrMs9s/oM2tNR1778bcts8T2k+rharQZGoqhotLcOgBFub6etp56/L58jm1oqaUZjQRQQD6YpOVyoUogM1JCudYqTTLn0xUinOsUppqMVipGNM1mlNNxiihEwUJNR6AJIpJFJJAmGJMgpIJ//Z);
+    background-size: cover;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    font-size: 18px;
+}
+
+ul {
+    text-align: center;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    color: rgb(34, 215, 218);
+    background-color: rgb(230, 210, 221);
+}
+
+h2 {
+    color: rgb(153, 79, 153);
+    text-align: center;
+    border: 4px solid pink;
+}
+
+p {
+    font-size: 24px;
+    color: rgb(13, 14, 13);
+    line-height: 36px;
+}
+
+img {
+    height 200px; 
+    width: 200px;
+    float: left;
+    padding-right: 18px;
+}
